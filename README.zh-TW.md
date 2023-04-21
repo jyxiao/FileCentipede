@@ -129,7 +129,7 @@
 -   隊列或無限並發設置 1.0
 -   Chrome 瀏覽器集成 1.0
 -   Firefox 瀏覽器集成 1.0
--   1.0 從網頁抓取視頻、音頻
+-   從網頁抓取視頻、音頻 1.0
 -   從網頁 1.0 中查找所有磁鐵
 -   翻譯工具 1.0
 -   HTTP 工具 1.0
@@ -176,7 +176,7 @@ FileU 的完整源代碼可以在“source_code”目錄中找到。
 
 -   網站：“lang/website/\*.lang”
 -   軟件：“lang/software/\*.lang”
--   瀏覽器擴展：“lang/browser_extension/\*.lang”
+-   Browser extension: "lang/browser_extension/\*.lang"
 
 #### 如何翻譯網站？
 
