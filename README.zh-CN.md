@@ -111,7 +111,7 @@
 -   其他自定义协议如迅雷、快车、qqdl 1.0
 -   JSON格式地址1.0
 -   m3u8流任务1.0
--   流任务AES​​-128解密（暂不支持SAMPLE-AES解密）1.0
+-   Stream task AES-128 decryption (SAMPLE-AES decryption is not supported yet)	1.0
 -   带有用户自定义 1.0 的 HTTP cookie、标头、用户代理
 -   种子种子限制 1.0
 -   动态编辑传输任务配置 1.0
@@ -129,7 +129,7 @@
 -   队列或无限并发设置 1.0
 -   Chrome 浏览器集成 1.0
 -   Firefox 浏览器集成 1.0
--   1.0 从网页抓取视频、音频
+-   从网页抓取视频、音频 1.0
 -   从网页 1.0 中查找所有磁铁
 -   翻译工具 1.0
 -   HTTP 工具 1.0
