@@ -120,7 +120,7 @@ Commanditaires :<http://www.filecxx.com/en_US/sponsors.html>
 -   Catalogues 1.0
 -   Limite de téléchargement, vitesse de téléchargement 1.0
 -   Créer une adresse personnalisée (filec, fileu) 1.0
--   Gestion des proxys 1.0
+-   Gestion des procurations 1.0
 -   Filtre personnalisé 1.0
 -   Gestion des traqueurs 1.0
 -   Détails de la tâche 1.0
