@@ -10,7 +10,7 @@
   <img src="./style/images/logo_128.png" width="128" alt="File Centipede Icon" />
 </a>
 
-File centipede är en allt-i-ett-hanterare för internetuppladdning/nedladdning, BitTorrent-klient, WebDAV-klient, FTP-klient och SSH-klient.
+Fil tusenfoting är en allt-i-ett-hanterare för internetuppladdning/nedladdning, BitTorrent-klient, WebDAV-klient, FTP-klient och SSH-klient.
 
 Den är designad för att vara snabb, anpassningsbar och användarvänlig.
 
