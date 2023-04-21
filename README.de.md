@@ -38,8 +38,7 @@ Sponsoren:<http://www.filecxx.com/en_US/sponsors.html>
 
 #### Aufgabe bearbeiten
 
-![Edit task](images/screenshot_edit_task.png)
-![Edit task](images/screenshot_edit_task2.png)
+![Edit task](images/screenshot_edit_task.png)![Edit task](images/screenshot_edit_task2.png)
 
 #### Dialog bestätigen
 
