@@ -16,7 +16,7 @@ File centipede は、オールインワンのインターネット ファイル 
 
 マルチプロトコルをサポートし、HTTP リクエスター、ファイル マージ、エンコーダーなどの多くの便利な補助ツールが含まれています。
 
-ブラウザとの統合により、Web サイトからオーディオやビデオ、さらには暗号化されたビデオをダウンロードできます。
+ブラウザの統合により、ウェブサイトからオーディオやビデオ、さらには暗号化されたビデオをダウンロードできます。
 
 （広告なしで無料です）
 
@@ -42,14 +42,13 @@ Webサイト：[ｈっｔｐ：／／ふぃぇｃっｘ。こｍ](http://filecxx
 
 #### 確認ダイアログ
 
-![torrent confirm](images/screenshot_torrent_confirm.png)
-![http confirm](images/screenshot_http_confirm.png)![links confirm](images/screenshot_links_confirm.png)
+![torrent confirm](images/screenshot_torrent_confirm.png)![http confirm](images/screenshot_http_confirm.png)![links confirm](images/screenshot_links_confirm.png)
 
 #### カタログを追加
 
 ![add catalog](images/screenshot_add_catalog.png)
 
-#### Settings
+#### 設定
 
 ![settings](images/screenshot_settings.png)
 
