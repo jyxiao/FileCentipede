@@ -10,7 +10,7 @@
   <img src="./style/images/logo_128.png" width="128" alt="File Centipede Icon" />
 </a>
 
-फाइल सेंटीपीड एक ऑल-इन-वन इंटरनेट फाइल अपलोड/डाउनलोड मैनेजर, बिटटोरेंट क्लाइंट, वेबडीएवी क्लाइंट, एफटीपी क्लाइंट और एसएसएच क्लाइंट है।
+फ़ाइल कनखजूरा एक ऑल-इन-वन इंटरनेट फ़ाइल अपलोड/डाउनलोड मैनेजर, बिटटोरेंट क्लाइंट, वेबडीएवी क्लाइंट, एफ़टीपी क्लाइंट और एसएसएच क्लाइंट है।
 
 यह तेज़, अनुकूलन योग्य और उपयोगकर्ता के अनुकूल होने के लिए डिज़ाइन किया गया है।
 
@@ -28,7 +28,7 @@
 
 ## स्क्रीनशॉट
 
-#### फ़ाइल चालीसपद
+#### फ़ाइल सेंटीपीड
 
 ![File Centipede](images/screenshot_software.png)![File Centipede](images/screenshot_software2.png)![File Centipede](images/screenshot_software_file_browser_webdav.png)![File Centipede](images/screenshot_software_file_browser_ssh.png)![File Centipede](images/screenshot_software_file_browser_ftp.png)![File Centipede](images/screenshot_software_file_browser_add.png)![File Centipede](images/screenshot_software_file_browser_log.png)
 
