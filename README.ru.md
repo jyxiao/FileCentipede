@@ -24,7 +24,7 @@
 
 Панель приборов:[хттпс://в.филеккс.ком](https://w.filecxx.com)
 
-Спонсоры:[хттп://ввв.филеккс.ком/ен\_УС/спонсорс.хтмл](http://www.filecxx.com/en_US/sponsors.html)
+Спонсоры:<http://www.filecxx.com/en_US/sponsors.html>
 
 ## Скриншот
 
@@ -34,7 +34,8 @@
 
 #### Добавить задачу
 
-![Add task](images/screenshot_add_task.png)![Add task](images/screenshot_add_task2.png)![Add task](images/screenshot_add_task3.png)![Add task](images/screenshot_add_task4.png)
+![Add task](images/screenshot_add_task.png)![Add task](images/screenshot_add_task2.png)
+![Add task](images/screenshot_add_task3.png)![Add task](images/screenshot_add_task4.png)
 
 #### Изменить задачу
 
@@ -170,7 +171,7 @@
 
 Если вам нравится это программное обеспечение, вы можете помочь, используя инструмент перевода, предусмотренный в программном обеспечении, чтобы перевести его на другие языки.
 
-Это сделает программное обеспечение более доступным для людей, говорящих на языках, отличных от того, на котором оно было изначально написано. Мы будем очень признательны за ваш вклад.
+This will make the software more accessible to people who speak languages other than the one it was originally written in. Your contribution would be greatly appreciated.
 
 ## Языковые файлы
 
